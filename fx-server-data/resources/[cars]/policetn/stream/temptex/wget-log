@@ -1,0 +1,19 @@
+--2019-05-15 04:34:28--  https://www.lcpdfr.com/files/file/10301-lenco-variation/?do=download
+Resolving www.lcpdfr.com (www.lcpdfr.com)... 198.251.89.151
+Connecting to www.lcpdfr.com (www.lcpdfr.com)|198.251.89.151|:443... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: https://www.lcpdfr.com/files/file/10301-lenco-variation/?do=download [following]
+--2019-05-15 04:34:28--  https://www.lcpdfr.com/files/file/10301-lenco-variation/?do=download
+Connecting to www.lcpdfr.com (www.lcpdfr.com)|198.251.89.151|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lcpdfr.com/files/file/10301-lenco-variation/ [following]
+--2019-05-15 04:34:31--  https://www.lcpdfr.com/files/file/10301-lenco-variation/
+Connecting to www.lcpdfr.com (www.lcpdfr.com)|198.251.89.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html?do=download’
+
+index.html?do=download              [<=>                                                    ]       0  --.-KB/s               index.html?do=download              [ <=>                                                   ]  40.52K   175KB/s               index.html?do=download              [  <=>                                                  ] 180.51K   388KB/s               index.html?do=download              [   <=>                                                 ] 257.20K   551KB/s    in 0.5s    
+
+2019-05-15 04:34:35 (551 KB/s) - ‘index.html?do=download’ saved [263375]
+

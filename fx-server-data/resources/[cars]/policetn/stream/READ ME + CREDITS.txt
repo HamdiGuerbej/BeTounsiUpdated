@@ -1,0 +1,129 @@
+    -- TUNISIAN POLICE VEHICLE --   v1.0
+           
+          Retexture by PwNeUuR
+CREDITS :
+_Audi a8 original model by DragoN777  
+    police version by Ghost0912 
+
+_mercedes sprinter Model : 3D Model's - ChrisR
+   Poly's Lowered - Tim
+   GTAIV Author - BritishGamer88n
+   Edited Futher For IV - BritishGamer88
+   Converted over to GTAV - BritishGamer88
+   Texture's/Material's - BritishGamer88
+   Template - BritishGamer88
+   Police Lightbar - Rockstar Games/ Edit to British version by BritishGamer88
+   Grill Lights - Rockstar Games
+   Oleg - for continuious help to get the model working ingame!!
+   Wheel's - Forza
+   Police Cage - Kinksta100
+_BMw525D  Model (arkviz)
+-   Converted to GTA IV (BritishPoliceMods)
+-   Converted to GTA V (Double Doppler)
+-   Materials, mapping, template and fixes (Double Doppler) 
+-   Numberplates (Double Doppler)
+_Ford transit - Model (London's Calling RPC)
+  - High roof Met Spec modelling (Double Doppler)
+  - Converted to GTA V (Double Doppler)
+  - Materials, mapping, template and fixes (Double Doppler) 
+  - Numberplates (Double Doppler)
+  - Rims (Double Doppler)
+  - Config Lines (Rockstar Games & Double Doppler)
+_Tahoe chevrolet Sergeant Manley ~ DBock (lcpdfr.com)Get Model here http://www.lcpdfr.com/files/file/10586-modelchevy-tahoe-variants-arjent-edge-slicktopsiderunners/
+_Ford ranger Scratch Made Rear Top - ChrisTuffur
+  Scratch Made Snorkel - ChrisTuffur
+  Model : 3D Model - Luke Brazier
+  Poly's Lowered : Luke Brazier
+  Converted over to GTAV : BritishGamer88
+  Texture's/Material's : BritishGamer88
+  Template : BritishGamer88
+  Police Lightbar : BritishGamer88
+  Grill Lights : Vertex
+  Oleg : for continuious help to get the model working ingame!!
+  Skin's : BritishGamer88
+  Suspension - Rockstar Games
+  Wheel's : 3dgarage.ru
+  Winch : 3Dwarehouse
+  Roof Rack : BritishGamer88
+  Interior - Rockstar Games
+  Tow Bar - Rockstar Games
+_Bearcat   cosmo  
+  Get model here http://www.lcpdfr.com/files/file/10301-lenco-bearcat-cosmos-variation/
+_volkswagen t5   Model	:	Homerss 
+  - Converted over to GTAV :	Jonas Holland (TopMods©) 
+  - Texture's/Material's :	TopMods© 
+  - Police Lightbar & Leds :	MOHaalsmeer 
+  - Liverys :	GUSTAV2709© 
+  - Console :	Sheriff Van Dyck 
+  -Other interior : Gustav2709 
+SOME MODEL YOU NEED TO DOWNLOAD FROM EXTERNAL site  ---5oudh menhom el .ytd akahaw ya3ni el model menghir el texture---
+
+http://www.lcpdfr.com/files/file/10301-lenco-bearcat-cosmos-variation/ 
+
+http://www.lcpdfr.com/files/file/10586-modelchevy-tahoe-variants-arjent-edge-slicktopsiderunners/
+
+https://www.gta5-mods.com/paintjobs/vw-t5-danish-police-car-with-original-danish-lights
+
+
+
+Required thing:
+
+_ OPENIV LINK http://openiv.com
+
+___________________________________________________ 
+How to create MOD folder : http://openiv.com/?p=1132
+___________________________________________________
+ 
+Selem ,ahawa tutoriel bech tnajem tsob les fichiers menghir ma tfazed el jeu mte3ek
+Taba3 mli7 5atwa 5atwa , el methode mihech bech tremplaci les fichiers d'origine donc tnajem bi souhoula tarja3 bel original file 
+----------------------------------------------------------------------------
+_CREATING MOD FOLDER _
+
+1-Ta3mel  dossier esmou mods fi el game directory 
+
+_ temchi fi C:\Program Files\Rockstar Games\Grand Theft Auto V\update\x64\dlcpacks ta3mel copier li patchday3ng , patchday2ng, patchday4ng 
+ta3mlelhom coller fi C:\Program Files\Rockstar Games\Grand Theft Auto V\mods\update\x64\dlcpacks
+
+_temchi fi C:\Program Files\Rockstar Games\Grand Theft Auto V\update copier li update.rpl
+ta3mellou coller fi C:\Program Files\Rockstar Games\Grand Theft Auto V\mods\update
+
+_temchi fi C:\Program Files\Rockstar Games\Grand Theft Auto V copier x64e.rpf
+ta3mel coller fi C:\Program Files\Rockstar Games\Grand Theft Auto V\mods
+(tnajem tsob ay vehicle mod w t7othom houni mouch ken el mod hedha :D)
+____________________________________________________________
+
+MBA3Ed ma 3malt hedha najmou nebdew nsobbou les mods fi blayeshom el s7a7
+
+____________________________________________________
+ Telechargi mel internet OPEN IV
+7ellou(administrateur) selecti el directory mta3 el jeu ki yet7al enzel 3ala 'editmod'
+
+1_ emchi li C:\Program Files\Rockstar Games\Grand Theft Auto V\mods\x64e.rpf\levels\gta5\vehicles.rpf\
+a3mel import w selectionni lguard , police,policet,pranger el kol w a3mel ok 
+
+2_ emchi li C:\Program Files\Rockstar Games\Grand Theft Auto V\mods\update\x64\dlcpacks\patchday2ng\dlc.rpf\x64\levels\gta5\vehicles.rpf\
+w a3mel import w selectionni fbi2 el kol
+
+3_ emchi li C:\Program Files\Rockstar Games\Grand Theft Auto V\mods\update\x64\dlcpacks\patchday3ng\dlc.rpf\x64\levels\gta5\vehicles.rpf\
+w importi police2 riot sheriff sheriff2 el kol 
+
+4_ emchi li C:\Program Files\Rockstar Games\Grand Theft Auto V\mods\update\x64\dlcpacks\patchday4ng\dlc.rpf\x64\levels\gta5\vehicles.rpf\
+w importi police3 el  kol
+
+_________________________________________________________
+Hakkeya tkoun sabit el vehicles mods mezelet haja barka ;
+
+emchi li C:\Program Files\Rockstar Games\Grand Theft Auto V\mods\update\update.rpf\common\data
+importi visualsettings.dat (bech el dhaw ye5dem fel girophares)
+
+
+
+---------------------------------------------------
+
+ENJOY ! 
+
+Written by PwNeUuR
+https://www.gta5-mods.com/users/Pwneuur
+
+
+
